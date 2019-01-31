@@ -1,0 +1,73 @@
+.namae{
+    font-family: 'Pacifico', cursive;
+    background-color:lightblue;
+    color:white;
+    text-align:center;
+    font-size:40px;
+}
+.pink{
+   font-family: 'Pacifico', cursive; 
+   background-color:pink;
+   color:white;
+   width:45%;
+   font-size:30px;
+}
+.blue{
+   font-family: 'Pacifico', cursive; 
+   background-color:lightblue;
+   color:white;
+   width:45%;
+   font-size:30px;
+   position:relative;
+   text-align:left;
+   left:55%;
+    justify-content:flex-end;
+    display:flex;
+   
+}
+.bluestuff{
+    left:65%;
+    position:relative;
+    justify-content:flex-end;
+    display:flex;
+    width:35%;
+}
+h3{
+    font-family: 'Josefin Slab', serif;
+    font-size:25px;
+    text-indent:20px;
+    width:35%;
+}
+h4{
+   font-family: 'Josefin Slab', serif;
+    font-size:20px;
+    text-indent:20px;
+    width:35%; 
+}
+.bluetext{
+    position:relative;
+    text-align:left;
+    left:65%;
+    justify-content:flex-end;
+    display:flex;
+}
+p{
+    font-family: 'Josefin Slab', serif;
+    font-size:18px;
+    text-indent:20px;
+    width:35%; 
+    color:#666666;
+    text-align:center;
+}
+.special{
+    width:100%;
+    padding:0px;
+}
+body{
+     background: white;
+  background-image:
+    radial-gradient(#ffe6e6 10%, transparent 0), 
+    radial-gradient(#ffe6e6 10%, transparent 0);
+  background-size: 200px 200px;
+  background-position: 0 0, 100px 100px;
+}
